@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://giffiles.alphacoders.com/673/6732.gif">
+<img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/15uea1QBRXwSEUvm6AJllaNPQ531-kgXB/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Zaryab Khan</h1>
 <h3 align="center">Dark Night Developer</h3>
 
