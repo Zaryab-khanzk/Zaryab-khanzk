@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="410" viewBox="0 0 490 410">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; }
+    .text { font-family: monospace; font-size: 13px; }
+    .key { fill: #58a6ff; font-weight: bold; }
+    .val { fill: #c9d1d9; }
+    .title { fill: #79c0ff; font-weight: bold; font-size: 15px; }
+    .fade { opacity: 0; animation: fadeIn 0.3s forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+  <rect width="490" height="410" class="bg" rx="6" />
+  <g transform="translate(25, 30)">
+    <text x="0" y="0" class="text title fade" style="animation-delay: 0.1s">zaryab@github-workstation</text>
+    <text x="0" y="10" class="val fade" style="animation-delay: 0.15s">-----------------------------------</text>
+    <text x="0" y="40" class="text fade" style="animation-delay: 0.2s"><tspan class="key">Role:</tspan><tspan class="val"> Mobile &amp; Web Developer</tspan></text>
+    <text x="0" y="65" class="text fade" style="animation-delay: 0.3s"><tspan class="key">Core Stack:</tspan><tspan class="val"> Flutter, Dart, C++</tspan></text>
+    <text x="0" y="90" class="text fade" style="animation-delay: 0.4s"><tspan class="key">Web Dev:</tspan><tspan class="val"> WordPress, Elementor, Wix Studio</tspan></text>
+    <text x="0" y="115" class="text fade" style="animation-delay: 0.5s"><tspan class="key">Databases:</tspan><tspan class="val"> Advanced DBs, MySQL, PostgreSQL</tspan></text>
+    <text x="0" y="140" class="text fade" style="animation-delay: 0.6s"><tspan class="key">Location:</tspan><tspan class="val"> Wah Cantt, Pakistan</tspan></text>
+    <text x="0" y="180" class="text fade" style="animation-delay: 0.7s"><tspan class="key">Focus:</tspan><tspan class="val"> Android Apps &amp; Client Projects</tspan></text>
+    <text x="0" y="205" class="text fade" style="animation-delay: 0.8s"><tspan class="key">Status:</tspan><tspan class="val"> Freelancing &amp; Building Flutter Apps</tspan></text>
+    <g transform="translate(0, 240)" class="fade" style="animation-delay: 0.9s">
+      <rect x="0" y="0" width="20" height="20" fill="#ff7b72" rx="3"/>
+      <rect x="25" y="0" width="20" height="20" fill="#ffa657" rx="3"/>
+      <rect x="50" y="0" width="20" height="20" fill="#d2a8ff" rx="3"/>
+      <rect x="75" y="0" width="20" height="20" fill="#79c0ff" rx="3"/>
+      <rect x="100" y="0" width="20" height="20" fill="#56d364" rx="3"/>
+    </g>
+  </g>
+</svg>
