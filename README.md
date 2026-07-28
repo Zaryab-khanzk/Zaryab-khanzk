@@ -21,7 +21,7 @@
 - 🌱 Currently building full-stack apps with **Node.js**, **MongoDB**, and modern JS
 - 🧠 Interested in **AI/ML**, algorithms, and clean, fast web experiences
 - 🎯 Goal: becoming a top-tier computer scientist while growing as a writer and blogger
-- 📫 Reach me: *add your email / LinkedIn here*
+- 📫 Reach me: *zaryabkhan3047@gmail.com*
 
 <br/>
 
