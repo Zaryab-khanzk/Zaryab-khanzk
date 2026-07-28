@@ -53,7 +53,6 @@
 | 🔐 [**Data Encryption Standard (DES)**](https://github.com/Zaryab-khanzk) | Implementation of the DES cipher for learning cryptography fundamentals | Python |
 | 🌿 [**Plant Disease Detection**](https://github.com/Zaryab-khanzk) | ML model classifying plant diseases from leaf images | EfficientNet-B0 · Python |
 
-*(Update the links above to point to each project's actual repo)*
 
 </div>
 
